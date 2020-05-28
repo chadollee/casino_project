@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../high_low"
+		},
+		{
+			"path": "../ruby_grocery"
+		}
+	]
+}
